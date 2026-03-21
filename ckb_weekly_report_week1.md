@@ -6,9 +6,9 @@
 ### Courses Completed
 
 - Completed the "Introduction to Nervos CKB"
-   - * What makes CKB Unique
-   - * CKB Fundamentals
-   - * Core Structures
+  * What makes CKB Unique
+  * CKB Fundamentals
+  * Core Structures
 - Completed the "Getting Started on CKB" 
 - Completed Smart Contract Basics for Nervos(Introduction to Script)
 - Completed the first two modules of the CKB Academy:
