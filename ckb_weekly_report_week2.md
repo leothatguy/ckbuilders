@@ -44,7 +44,8 @@
     - Created a token
     - Checked all token holders
     - Transfered custom token to another address
-    <img width="1732" height="948" alt="image" src="https://github.com/user-attachments/assets/d83b4b8b-aa86-4aa4-b808-d2474b8b64df" />
+   <img width="1731" height="957" alt="image" src="https://github.com/user-attachments/assets/f45ba577-2073-4a38-a406-d8a56139b5b9" />
+   <img width="1633" height="917" alt="image" src="https://github.com/user-attachments/assets/1c4507f7-f743-4fbd-bc0c-d2f63e70a41a" />
 
 
 - Dapp Tutorial (Create DOB):
