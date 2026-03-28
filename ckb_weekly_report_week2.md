@@ -34,14 +34,31 @@
     - Set it codebase locally and ran it
     - Then created a cell with a string data
     - Read the data from the cell
+     <img width="1361" height="693" alt="image" src="https://github.com/user-attachments/assets/5745781f-d97a-457b-b80f-4026f1f4b6a9" />
+
 
 - Dapp Tutorial (Create Fungible Token):
     - Setup codebase locally
     - Created a token
     - Checked all token holders
     - Transfered custom token to another address
+    <img width="1732" height="948" alt="image" src="https://github.com/user-attachments/assets/d83b4b8b-aa86-4aa4-b808-d2474b8b64df" />
 
-- Dapp Tutorial (Create DOB)
+
+- Dapp Tutorial (Create DOB):
+    - Setup codebase
+    - Upload DOB Image
+    - Checked Spore content (Uploaded DOB image)
+     <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c982a0ad-8a3b-47e0-bc3c-c2c111b84677" />
+     
+  
+- Dapp Tutorial (Simple Lock):
+    - Setup Codebase locally
+    - Built and deploy script
+    - Created hash for my preimage
+    - Deposited CKB and interacted with the frontend
+    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bde72ccf-f1a5-40ed-bd08-92712597b955" />
+
 
 ### Environment
 - Git (≥2.40.0)
