@@ -42,6 +42,8 @@
 ---
 
 ## Practical Progress
+<img width="1912" height="389" alt="image" src="https://github.com/user-attachments/assets/659b3bba-e9f4-458a-8495-176a9aa70e0a" />
+
 
 ### Exploring Payment Channels & Rust SDK
 
