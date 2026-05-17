@@ -88,6 +88,11 @@ cd loavix-scripts && make build && cargo test
 pnpm run create-invoice-cell
 pnpm run settle-invoice-cell -- <txHash> 0x0
 ```
+<img width="569" height="487" alt="image" src="https://github.com/user-attachments/assets/8cb1a9fc-22d4-4bcf-ac4d-6fe2de76a7b6" />
+<img width="594" height="456" alt="image" src="https://github.com/user-attachments/assets/b550f54e-b485-49b7-8237-e4444f3668f5" />
+
+<img width="1200" height="486" alt="image" src="https://github.com/user-attachments/assets/72e53d89-b4c5-4ee0-94ca-3ebaed7fee6a" />
+<img width="1200" height="433" alt="image" src="https://github.com/user-attachments/assets/07d2b95a-7f13-4a18-8d25-acbacbbe3da3" />
 
 ---
 
