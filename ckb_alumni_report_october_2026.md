@@ -7,7 +7,7 @@
 
 ### Overview
 
-- This report documents the Nervos work done since the Week 25 Builder Track report, across four codebases:
+- This report documents the Nervos work done through September to October, across four codebases:
   * Plimsoll, the BTC-backed stablecoin CDP protocol on CKB, taken from finished contracts to a live, verified testnet deployment
   * Loavix, the Fiber Network payments backend, hardened and moved to its own hosting
   * `fiber-node-connector`, the standalone connector merchants run beside their Fiber node
@@ -15,7 +15,7 @@
 
 ### Plimsoll
 
-- Built the off-chain half of the protocol on top of the contracts reported in Week 25:
+- Built the off-chain half of the protocol on top of the contracts:
   * `plimsoll-sdk`: byte-exact codecs, transaction builders for all seven operations, the read side, and an oracle refresh path, with typed script errors
   * A devnet end-to-end harness that deploys everything to a local chain and runs the full loop as real transactions, including a permissionless liquidation by a second account
   * A liquidation keeper that polls, refreshes a stale price, scans vaults, and liquidates, with race handling, a dry-run mode, and profit logging
